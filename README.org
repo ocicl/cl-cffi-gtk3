@@ -7,5 +7,5 @@ Note: The former cl-cffi-gtk library is replaced with the cl-cffi-gtk3 for GTK 3
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/crategus/cl-cffi-gtk3.git |
 | commit  | 5a5115a                                          |
-| systems | cl-cffi-gtk3 cl-cffi-gtk3-init                   |
+| systems | cl-cffi-gtk3                                     |
 |---------+--------------------------------------------------|
