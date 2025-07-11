@@ -1,0 +1,11 @@
+* cl-cffi-gtk3
+
+cl-cffi-gtk3 is a Lisp binding to the GTK 3 library.
+Note: The former cl-cffi-gtk library is replaced with the cl-cffi-gtk3 for GTK 3 and the cl-cffi-gtk4 library for GTK 4
+
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/crategus/cl-cffi-gtk3.git |
+| commit  | 5a5115a                                          |
+| systems | cl-cffi-gtk3 cl-cffi-gtk3-init                   |
+|---------+--------------------------------------------------|
