@@ -6,6 +6,6 @@ Note: The former cl-cffi-gtk library is replaced with the cl-cffi-gtk3 for GTK 3
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/crategus/cl-cffi-gtk3.git |
-| commit  | 4ef4e30                                          |
+| commit  | 4d7f83a                                          |
 | systems | cl-cffi-gtk3                                     |
 |---------+--------------------------------------------------|
