@@ -9,4 +9,4 @@ Note: The former cl-cffi-gtk library is replaced with the cl-cffi-gtk3 for GTK 3
 | commit  | 4d7f83a                                          |
 | systems | cl-cffi-gtk3                                     |
 |---------+--------------------------------------------------|
- 
+  
